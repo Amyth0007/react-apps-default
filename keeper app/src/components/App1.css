@@ -1,0 +1,12 @@
+.notes1{
+    background-color:  'grey' ; 
+    height:'180px';
+     border-radius: '7px';
+      box-shadow: '0 2px 5px #ccc'
+  }
+  .card1{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+}

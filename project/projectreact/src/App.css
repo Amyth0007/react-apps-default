@@ -1,0 +1,12 @@
+.App{
+  color: blueviolet;
+
+}
+*{
+  margin: 20px 20px 20px 20px;
+
+}
+.Tweet{
+  border: 5px solid black;
+  background-color: brown;
+}

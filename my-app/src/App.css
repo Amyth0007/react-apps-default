@@ -1,0 +1,21 @@
+.style{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    height: 10px;
+    width: 350px;
+    padding: 50px 50px;
+    margin: 50px 50px 50px 50px;
+}
+.button{
+    color: blueviolet;
+    margin-top: 20px;
+    padding: 10px 10px;
+    margin-left: 10px;
+}
+.input{
+    /* color: white; */
+    /* margin-top: 20px; */
+   border-radius: 20px;
+    padding: 10px 10px;
+}

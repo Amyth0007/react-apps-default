@@ -1,0 +1,24 @@
+.bg{
+ align-items: center;
+ text-align: center;
+ margin-top: 40px;
+  background-color: aqua;
+  margin: 20px 20px 20px 20px;
+  padding: 3px 3px 3px 3px;
+  border: 2px solid black;
+}
+#jsx{
+    text-align: center;
+}
+.card{
+    width: 15rem;
+    height: 15rem;
+    left: 30rem;
+    padding: 20px 20px;
+    text-align: center;
+    border-radius: 3px solid black;
+    box-shadow: 2px 2px 2px 2px #ccc;
+}
+.body{
+    background-color:crimson;
+}

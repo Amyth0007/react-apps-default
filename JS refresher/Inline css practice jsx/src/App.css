@@ -1,0 +1,15 @@
+.bg{
+ align-items: center;
+ text-align: center;
+ margin-top: 40px;
+  background-color: aqua;
+  margin: 20px 20px 20px 20px;
+  padding: 3px 3px 3px 3px;
+  border: 2px solid black;
+}
+#jsx{
+    text-align: center;
+}
+.body{
+    background-color:crimson;
+}
